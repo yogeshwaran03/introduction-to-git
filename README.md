@@ -1,2 +1,2 @@
 # introduction-to-git
-we are learning basic of got
+we are learning basic of git
